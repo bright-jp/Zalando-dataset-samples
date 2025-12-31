@@ -2,7 +2,7 @@
 
 <h2>1001件のZalando商品からなるサンプルデータセット</h2>
 
-![Zalando dataset header](https://github.com/luminati-io/Zalando-dataset-samples/blob/main/Zalando-datasets.png)
+![Zalando dataset header](https://github.com/bright-jp/Zalando-dataset-samples/blob/main/Zalando-datasets.png)
 
 1000件を超えるレコードのZalandoデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
