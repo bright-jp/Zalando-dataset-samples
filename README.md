@@ -1,4 +1,4 @@
-# Zalando-dataset-samples
+# Zalando データセットサンプル
 
 <h2>1001件のZalando商品からなるサンプルデータセット</h2>
 
